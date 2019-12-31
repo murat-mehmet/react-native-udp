@@ -10,7 +10,7 @@ This module is used by [Tradle](https://github.com/tradle)
 
 * In your project dir:
 ```
-npm install --save react-native-udp
+npm install --save git://github.com/murat-mehmet/react-native-udp.git
 ```
 
 ## Link in the native dependency
